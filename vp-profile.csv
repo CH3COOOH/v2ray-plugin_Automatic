@@ -1,0 +1,4 @@
+Enabled,Server,ListenAddr,Host,Path,PluginListen,ServiceListen,PluginTLS,Memo
+1,1,127.0.0.1,yourdomain.com,/app,8389,8388,0,Service on the host
+1,0,0.0.0.0,yourdomain.com,/app,1080,443,1,Connect to your server
+EOF,,,,,,,,
